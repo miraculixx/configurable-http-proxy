@@ -135,3 +135,4 @@ configurable_http_proxy/version.txt
 /.idea/misc.xml
 /.idea/modules.xml
 /.idea/vcs.xml
+*sqlite*
